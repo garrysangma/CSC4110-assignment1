@@ -1,2 +1,1 @@
-# CSC4110-assignment1
-# GARRY - gh8993
+# Garry Sangma - gh8993
